@@ -1,0 +1,16 @@
+[
+    {
+        "Nama": "Nana Leonin",
+        "NIM": "001",
+        "Prodi": "Biologi",
+        "Nilai": "89",
+        "Matkul": "Kimia dasar"
+    },
+    {
+        "Nama": "Miya Elf",
+        "NIM": "003",
+        "Prodi": "Statistika",
+        "Nilai": "90",
+        "Matkul": "Statistika dasar"
+    }
+]

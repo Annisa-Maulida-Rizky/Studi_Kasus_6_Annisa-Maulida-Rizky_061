@@ -3,6 +3,9 @@
 ## Penjelasan singkat program
 Program ini adalah sistem untuk membaca dan menambah serta menyimpan data ke file json. Data di input untuk menambahkan dan kemudian menyimpan di dalam file json. Sistem juga bisa menampilkan data pada file json di program. Pengguna juga bisa terus menambah atau melihat data hingga pengguna memilih uuntuk keluar, dan program selesai. Data akan tersimpan otomatis pada file json.
 
+Program ini menggunakan file json sebagai penyimpanan data, menggunakan perintah untuk membaca dan membuka file json, lalu perintah untuk menambah/menulis dan menyimpan ke json, menggunakan perulangan while True agar program terus berjalan hingga pengguna memilih keluar, 
+lalu program ini menggunakan function untuk membuat fungsi yang membagi program berdasarkan tugasnya, yaitu menyimpan, menambah dan menampilkan data dan fungsi tersebut dapat dipanggil.
+
 ## Hasil Output
 <img width="302" height="189" alt="Screenshot 2026-10-07 191213" src="https://github.com/user-attachments/assets/1e93bb83-1239-4232-b38c-6c90637296db" />
 

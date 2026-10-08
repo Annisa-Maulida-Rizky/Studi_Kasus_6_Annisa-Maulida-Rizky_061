@@ -1,4 +1,4 @@
-# Studi_Kasus_7_Annisa-Maulida-Rizky_061
+# Studi_Kasus_6_Annisa-Maulida-Rizky_061
 
 ## Penjelasan singkat program
 Program ini adalah sistem untuk membaca dan menambah serta menyimpan data ke file json. Data di input untuk menambahkan dan kemudian menyimpan di dalam file json. Sistem juga bisa menampilkan data pada file json di program. Pengguna juga bisa terus menambah atau melihat data hingga pengguna memilih uuntuk keluar, dan program selesai. Data akan tersimpan otomatis pada file json.
